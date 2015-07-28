@@ -200,12 +200,12 @@ ul#nav li.current a { color: #008080; }
    font: 22px/30px 'opensans-bold', sans-serif;
    color: #008080;
    margin-bottom: 12px;
-   top : 100px ;
+   top : 140px ;
    left : 0px ;
 }
 #about p {
    position : relative ;
-   top : 100px ;
+   top : 140px ;
    left : 0px ;
    line-height: -25px;
    color: #000;
@@ -217,8 +217,8 @@ ul#nav li.current a { color: #008080; }
    position: relative;
    width: 240px;
    height: 240px;
-   top: 100px ;
-   left : -120px ;
+   top: 250px ;
+   left : -95px ;
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
