@@ -190,6 +190,8 @@ ul#nav li.current a { color: #008080; }
    background: url(../images/about-me-background.jpg) no-repeat top center;
    padding-top: 96px;
    padding-bottom: 66px;
+   height : 1000px;
+
 }
 
 #about a, #about a:visited  { color: #000; }
@@ -200,13 +202,13 @@ ul#nav li.current a { color: #008080; }
    font: 22px/30px 'opensans-bold', sans-serif;
    color: #008080;
    margin-bottom: 12px;
-   top : -40px ;
-   left : -140px ;
+   top : -37px ;
+   left : -120px ;
 }
 #about p {
    position : relative ;
-   top : -40px ;
-   left : -140px ;
+   top : -37px ;
+   left : -120px ;
    line-height: -25px;
    color: #000;
    font-weight: bold;
