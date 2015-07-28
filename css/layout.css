@@ -292,7 +292,7 @@ ul#nav li.current a { color: #008080; }
    margin-top: 6px;
 }
 
-#resume p {
+#resume p, ul, li {
   color: #000 ;
 }
 
