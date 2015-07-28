@@ -534,6 +534,7 @@ ul#nav li.current a { color: #F06000; }
 	font: 20px/24px 'opensans-regular', sans-serif;
    color: #000000;
    margin-bottom: 12px;
+   text-align: justify;
 }
 .popup-modal .description-box .categories {
    font: 11px/21px 'opensans-light', sans-serif;
