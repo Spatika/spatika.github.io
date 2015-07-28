@@ -187,7 +187,7 @@ ul#nav li.current a { color: #008080; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #2B2B2B;
+   background: url(../images/about-me-background.jpg) no-repeat top center;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -203,7 +203,7 @@ ul#nav li.current a { color: #008080; }
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: #fff;
    font-weight: bold;
 }
 #about .profile-pic {
@@ -419,6 +419,7 @@ ul#nav li.current a { color: #008080; }
 #passions h1 {
    font: 25px/24px 'opensans-semibold', sans-serif;
    letter-spacing: 1px;
+   text-transform: uppercase;
    text-align: left;
    font-weight: bold ;
    margin-bottom: 48px;
@@ -427,8 +428,9 @@ ul#nav li.current a { color: #008080; }
 
 #passions p{
   font-size: 18px ;
-  color: #008080 ;
+  color: #000 ;
   text-align: left ;
+  font-weight: bold ;
 }
 
 /* Passions Content */
@@ -707,13 +709,13 @@ call-to-action .button {
 #testimonials blockquote cite a,
 #testimonials blockquote cite a:visited { color: #8B9798; border: none }
 
-#banner-text blockquote {
+#banner-text blockquote p{
   color: #fff
   font-size: 22px ;
   font-weight: bold ;
 }
 
-#banner-text blockquote cite {
+#banner-text blockquote cite{
   font-size: 16px ;
   font-weight: bold ;
 }
