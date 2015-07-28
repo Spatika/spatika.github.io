@@ -200,12 +200,12 @@ ul#nav li.current a { color: #008080; }
    font: 22px/30px 'opensans-bold', sans-serif;
    color: #008080;
    margin-bottom: 12px;
-   top : 0px ;
+   top : 50px ;
    left : 0px ;
 }
 #about p {
    position : relative ;
-   top : 0px ;
+   top : 50px ;
    left : 0px ;
    line-height: -25px;
    color: #000;
