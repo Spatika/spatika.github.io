@@ -212,15 +212,15 @@ ul#nav li.current a { color: #008080; }
    line-height: -25px;
    color: #000;
    font-weight: bold;
-   font-size: 12px ;
+   font-size: 15px ;
    text-align: justify ;
 }
 #about .profile-pic {
    position: relative;
    width: 240px;
    height: 240px;
-   top: -40px ;
-   left : -80px ;
+   top: -50px ;
+   left : -100px ;
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
