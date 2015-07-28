@@ -33,11 +33,8 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background-repeat: no-repeat;
-   background-position: top center;
+   background: white url(../images/header-background.jpg) no repeat top center ;
    background-size: cover !important;
-
-   background-image: url(header-background.jpg)
 	-webkit-background-size: cover !important;
    text-align: center;
    overflow: hidden;
