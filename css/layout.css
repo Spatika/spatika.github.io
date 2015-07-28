@@ -433,7 +433,7 @@ ul#nav li.current a { color: #008080; }
    font: 25px/24px 'opensans-semibold', sans-serif;
    letter-spacing: 1px;
    text-transform: uppercase;
-   text-align: left;
+   text-align: center;
    font-weight: bold ;
    margin-bottom: 48px;
    color: #008080;
@@ -443,8 +443,8 @@ ul#nav li.current a { color: #008080; }
   position : relative ;
   left : 10px ;
   font-size: 15px ;
-  color: #000 ;
-  text-align: left ;
+  color: #ccc ;
+  text-align: center ;
   font-weight: bold ;
 }
 
