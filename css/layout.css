@@ -266,6 +266,7 @@ ul#nav li.current a { color: #008080; }
 }
 #resume h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
+   color : #000 ;
 }
 
 #resume .header-col { padding-top: 9px; }
