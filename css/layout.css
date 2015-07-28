@@ -425,7 +425,7 @@ ul#nav li.current a { color: #008080; }
 /* ------------------------------------------------------------------ */
 
 #projects {
-   background: #ebeeee;
+   background: #eee;
    padding-top: 90px;
    padding-bottom: 60px;
 }
@@ -577,7 +577,7 @@ ul#nav li.current a { color: #008080; }
 /* ------------------------------------------------------------------ */
 
 #passions {
-   background: #ebeeee;
+   background: #000;
    padding-top: 90px;
    padding-bottom: 60px;
 }
