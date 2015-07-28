@@ -871,16 +871,31 @@ call-to-action .button {
 #testimonials blockquote cite a,
 #testimonials blockquote cite a:visited { color: #8B9798; border: none }
 
+
+
+#banner-text blockquote {
+   margin: 0 0px 30px 0px;
+   padding-left: 0;
+   position: relative;
+   text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
+}
+#banner-text blockquote:before { content: none; }
+
+
 #banner-text blockquote p{
-  color: #fff ;
-  font-size: 22px ;
-  font-weight: bold ;
+  font-family: 'librebaskerville-italic', serif;
+  padding: 0;
+  font-size: 24px;
+  line-height: 48px;
+  color: #fff
 }
 
 #banner-text blockquote cite{
-  font-size: 16px ;
-  font-weight: bold ;
-  color : #fff ;
+  display: block;
+  font-size: 16px;
+  font-style: normal;
+  line-height: 18px;
+  color: #fff;
 }
 
 /* Flex Slider
