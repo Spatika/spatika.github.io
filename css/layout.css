@@ -417,9 +417,10 @@ ul#nav li.current a { color: #008080; }
    padding-bottom: 60px;
 }
 #passions h1 {
-   font: 22px/24px 'opensans-semibold', sans-serif;
+   font: 25px/24px 'opensans-semibold', sans-serif;
    letter-spacing: 1px;
    text-align: left;
+   font-weight: bold ;
    margin-bottom: 48px;
    color: #008080;
 }
@@ -705,6 +706,17 @@ call-to-action .button {
 #testimonials blockquote cite:before { content: "\2014 \0020"; }
 #testimonials blockquote cite a,
 #testimonials blockquote cite a:visited { color: #8B9798; border: none }
+
+#header blockquote {
+  color: #fff
+  font-size: 22px ;
+  font-weight: bold ;
+}
+
+#header blockquote cite {
+  font-size: 16px ;
+  font-weight: bold ;
+}
 
 /* Flex Slider
 /* ------------------------------------------------------------------ */
