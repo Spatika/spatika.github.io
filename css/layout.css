@@ -196,7 +196,7 @@ ul#nav li.current a { color: #008080; }
 #about a:hover, #about a:focus { color: #008080; }
 
 #about h2 {
-    position : relative ;
+   position : relative ;
    font: 22px/30px 'opensans-bold', sans-serif;
    color: #008080;
    margin-bottom: 12px;
@@ -204,9 +204,9 @@ ul#nav li.current a { color: #008080; }
    left : 50 px ;
 }
 #about p {
-  position : relative ;
-  top : 50 px ;
-  left : 50 px ;
+   position : relative ;
+   top : 50 px ;
+   left : 50 px ;
    line-height: 25px;
    color: #000;
    font-weight: bold;
