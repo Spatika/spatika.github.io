@@ -888,9 +888,10 @@ call-to-action .button {
 #home blockquote cite{
   display: block;
   font-size: 16px;
+  font-family: 'librebaskerville-regular', sans-serif
   font-style: normal;
   line-height: 18px;
-  color: #fff;
+  color: #000;
 }
 
 /* Flex Slider
