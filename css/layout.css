@@ -875,23 +875,13 @@ call-to-action .button {
 #testimonials blockquote cite a,
 #testimonials blockquote cite a:visited { color: #8B9798; border: none }
 
-
-
-#home blockquote {
-   margin: 0 0px 30px 0px;
-   padding-left: 0;
-   position: relative;
-   text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
-}
-#home blockquote:before { content: none; }
-
-
 #home blockquote p{
   font-family: 'librebaskerville-italic', serif;
   padding: 0;
   font-size: 24px;
+  font-weigh: bold ;
   line-height: 48px;
-  color: #fff
+  color: #008080;
 }
 
 #home blockquote cite{
