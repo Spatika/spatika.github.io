@@ -246,7 +246,7 @@ ul#nav li.current a { color: #008080; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #ebeeee;
+   background: #fff;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
@@ -278,7 +278,7 @@ ul#nav li.current a { color: #008080; }
 }
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
-   color: #000;
+   color: #6E7881;
    margin-bottom: 18px;
    margin-top: 9px;
 }
@@ -354,7 +354,7 @@ ul#nav li.current a { color: #008080; }
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
-.js {
+.jss {
   	width: 20%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
@@ -365,15 +365,15 @@ ul#nav li.current a { color: #008080; }
   	-webkit-animation: jquery 2s ease;
 }
 
-@-moz-keyframes c {
+@-moz-keyframes photoshop {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-moz-keyframes java {
+@-moz-keyframes illustrator {
   0%   { width: 0px;  }
   100% { width: 55%;  }
 }
-@-moz-keyframes python {
+@-moz-keyframes wordpress {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
@@ -381,7 +381,7 @@ ul#nav li.current a { color: #008080; }
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-moz-keyframes js {
+@-moz-keyframes html5 {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
@@ -406,11 +406,11 @@ ul#nav li.current a { color: #008080; }
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-webkit-keyframes js {
+@-webkit-keyframes html5 {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-webkit-keyframes dbs {
+@-webkit-keyframes jquery {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
