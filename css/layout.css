@@ -531,7 +531,7 @@ ul#nav li.current a { color: #F06000; }
    color: #000000;
 }
 .popup-modal .description-box p {
-	font: 20px/24px 'opensans-regular', sans-serif;
+	font: 18px/24px 'opensans-regular', sans-serif;
    color: #000000;
    margin-bottom: 12px;
    text-align: justify;
