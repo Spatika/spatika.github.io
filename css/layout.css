@@ -203,7 +203,7 @@ ul#nav li.current a { color: #008080; }
 }
 #about p {
    line-height: 30px;
-   color: #fff;
+   color: #000;
    font-weight: bold;
 }
 #about .profile-pic {
