@@ -428,8 +428,6 @@ ul#nav li.current a { color: #008080; }
    padding-bottom: 60px;
 }
 #passions h1 {
-    position : relative ;
-    left : 10 px ;
    font: 25px/24px 'opensans-semibold', sans-serif;
    letter-spacing: 1px;
    text-transform: uppercase;
@@ -440,9 +438,7 @@ ul#nav li.current a { color: #008080; }
 }
 
 #passions p{
-  position : relative ;
-  left : 10px ;
-  font-size: 15px ;
+  font-size: 14px ;
   color: #ccc ;
   text-align: center ;
   font-weight: bold ;
