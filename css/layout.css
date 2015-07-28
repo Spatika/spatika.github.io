@@ -877,16 +877,16 @@ call-to-action .button {
 
 
 
-#banner-text blockquote {
+#home blockquote {
    margin: 0 0px 30px 0px;
    padding-left: 0;
    position: relative;
    text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
 }
-#banner-text blockquote:before { content: none; }
+#home blockquote:before { content: none; }
 
 
-#banner-text blockquote p{
+#home blockquote p{
   font-family: 'librebaskerville-italic', serif;
   padding: 0;
   font-size: 24px;
@@ -894,7 +894,7 @@ call-to-action .button {
   color: #fff
 }
 
-#banner-text blockquote cite{
+#home blockquote cite{
   display: block;
   font-size: 16px;
   font-style: normal;
