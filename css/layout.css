@@ -278,7 +278,7 @@ ul#nav li.current a { color: #008080; }
 }
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
-   color: #6E7881;
+   color: #000;
    margin-bottom: 18px;
    margin-top: 9px;
 }
@@ -872,7 +872,7 @@ call-to-action .button {
 #testimonials blockquote cite a:visited { color: #8B9798; border: none }
 
 #banner-text blockquote p{
-  color: #fff
+  color: #fff ;
   font-size: 22px ;
   font-weight: bold ;
 }
@@ -880,6 +880,7 @@ call-to-action .button {
 #banner-text blockquote cite{
   font-size: 16px ;
   font-weight: bold ;
+  color : #fff ;
 }
 
 /* Flex Slider
