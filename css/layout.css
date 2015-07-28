@@ -218,7 +218,7 @@ ul#nav li.current a { color: #008080; }
    width: 240px;
    height: 240px;
    top: 250px ;
-   left : -95px ;
+   left : -65px ;
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
@@ -229,7 +229,7 @@ ul#nav li.current a { color: #008080; }
 #about .main-col { padding-right: 5%; }
 #about .download .button {
    margin-top: 6px;
-   background: #444;
+   background: #008080;
 }
 #about .download .button:hover {
    background: #fff;
