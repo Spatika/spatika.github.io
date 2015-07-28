@@ -200,13 +200,13 @@ ul#nav li.current a { color: #008080; }
    font: 22px/30px 'opensans-bold', sans-serif;
    color: #008080;
    margin-bottom: 12px;
-   top : -37px ;
-   left : -80px ;
+   top : 0px ;
+   left : 0px ;
 }
 #about p {
    position : relative ;
-   top : -37px ;
-   left : -80px ;
+   top : 0px ;
+   left : 0px ;
    line-height: -25px;
    color: #000;
    font-weight: bold;
@@ -246,7 +246,7 @@ ul#nav li.current a { color: #008080; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #fff;
+   background: #faebd7; /*off-white*/
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
