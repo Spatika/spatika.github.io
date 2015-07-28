@@ -200,13 +200,13 @@ ul#nav li.current a { color: #008080; }
    font: 22px/30px 'opensans-bold', sans-serif;
    color: #008080;
    margin-bottom: 12px;
-   top : -45px ;
-   left : -150px ;
+   top : -40px ;
+   left : -140px ;
 }
 #about p {
    position : relative ;
-   top : -45px ;
-   left : -150px ;
+   top : -40px ;
+   left : -140px ;
    line-height: -25px;
    color: #000;
    font-weight: bold;
@@ -216,8 +216,8 @@ ul#nav li.current a { color: #008080; }
    position: relative;
    width: 240px;
    height: 240px;
-   top: 50px ;
-   left : -20px ;
+   top: -30px ;
+   left : -70px ;
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
@@ -425,6 +425,8 @@ ul#nav li.current a { color: #008080; }
    padding-bottom: 60px;
 }
 #passions h1 {
+    position : relative ;
+    left : 10 px ;
    font: 25px/24px 'opensans-semibold', sans-serif;
    letter-spacing: 1px;
    text-transform: uppercase;
@@ -435,6 +437,8 @@ ul#nav li.current a { color: #008080; }
 }
 
 #passions p{
+  position : relative ;
+  left : 10px ;
   font-size: 15px ;
   color: #000 ;
   text-align: left ;
