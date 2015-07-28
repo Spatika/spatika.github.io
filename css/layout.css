@@ -319,7 +319,7 @@ ul#nav li.current a { color: #008080; }
 }
 .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
-   color: #313131;
+   color: #fff;
 	text-transform: uppercase;
    letter-spacing: 2px;
 	font-weight: normal;
