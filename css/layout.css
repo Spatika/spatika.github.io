@@ -275,7 +275,7 @@ ul#nav li.current a { color: #008080; }
 .education, .work {
    margin-bottom: 48px;
    padding-bottom: 24px;
-   border-bottom: 1px solid #E8E8E8;
+   border-bottom: 1px solid #fff;
 }
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
@@ -313,7 +313,7 @@ ul#nav li.current a { color: #008080; }
 .bars li {
    position: relative;
   	margin-bottom: 60px;
-  	background: #fff;
+  	background: #131313;
   	height: 42px;
   	border-radius: 3px;
 }
@@ -571,13 +571,17 @@ ul#nav li.current a { color: #008080; }
 .popup-modal a:hover {	color: #00CCCC; }
 .popup-modal a.popup-modal-dismiss { margin-left: 24px; }
 
-
+#projects, #passions {
+  argin-bottom: 48px;
+    padding-bottom: 24px;
+    border-bottom: 1px solid #faebd7 ;
+}
 /* ------------------------------------------------------------------ */
 /* f. Passions Section a.k.a Other Stuff I Do
 /* ------------------------------------------------------------------ */
 
 #passions {
-   background: #000;
+   background: #303030; //same color bg as Projects section
    padding-top: 90px;
    padding-bottom: 60px;
 }
