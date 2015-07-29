@@ -580,8 +580,8 @@ ul#nav li.current a { color: #008080; }
   margin-bottom: 48px #131313;
   padding-bottom: 24px;
   border-bottom: 1px solid #faebd7 ;
-  width: 96%;
-  max-width: 1020px;
+  border-bottom-width: 96% ;
+  margin: auto ;
 }
 /* ------------------------------------------------------------------ */
 /* f. Passions Section a.k.a Other Stuff I Do
