@@ -571,10 +571,16 @@ ul#nav li.current a { color: #008080; }
 .popup-modal a:hover {	color: #00CCCC; }
 .popup-modal a.popup-modal-dismiss { margin-left: 24px; }
 
-#projects, #passions {
-  argin-bottom: 48px;
+#passions {
+    margin-bottom: 48px;
     padding-bottom: 24px;
     border-bottom: 1px solid #faebd7 ;
+}
+
+#projects {
+  margin-bottom: 48px;
+  padding-bottom: 24px;
+  border-bottom: 1px solid #faebd7 ;
 }
 /* ------------------------------------------------------------------ */
 /* f. Passions Section a.k.a Other Stuff I Do
