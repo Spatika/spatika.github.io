@@ -425,7 +425,7 @@ ul#nav li.current a { color: #008080; }
 /* ------------------------------------------------------------------ */
 
 #projects {
-   background: #303030;
+   background: #131313;
    padding-top: 90px;
    padding-bottom: 60px;
 }
@@ -572,22 +572,23 @@ ul#nav li.current a { color: #008080; }
 .popup-modal a.popup-modal-dismiss { margin-left: 24px; }
 
 #passions {
-    margin-bottom: 48px;
     padding-bottom: 24px;
     border-bottom: 1px solid #faebd7 ;
 }
 
 #projects {
-  margin-bottom: 48px;
+  margin-bottom: 48px #131313;
   padding-bottom: 24px;
   border-bottom: 1px solid #faebd7 ;
+  width: 96%;
+  max-width: 1020px;
 }
 /* ------------------------------------------------------------------ */
 /* f. Passions Section a.k.a Other Stuff I Do
 /* ------------------------------------------------------------------ */
 
 #passions {
-   background: #303030; //same color bg as Projects section
+   background: #131313; //same color bg as Projects section
    padding-top: 90px;
    padding-bottom: 60px;
 }
