@@ -200,13 +200,13 @@ ul#nav li.current a { color: #008080; }
    font: 22px/30px 'opensans-bold', sans-serif;
    color: #008080;
    margin-bottom: 12px;
-   top : 140px ;
-   left : 0px ;
+   /*top : 140px ;
+   left : 0px ;*/
 }
 #about p {
    position : relative ;
-   top : 140px ;
-   left : 0px ;
+   /*top : 140px ;
+   left : 0px ; */
    line-height: -25px;
    color: #000;
    font-weight: bold;
@@ -217,10 +217,12 @@ ul#nav li.current a { color: #008080; }
    position: relative;
    width: 240px;
    height: 240px;
+   /*
    top: 250px ;
-   left : -65px ;
+   left : -65px ;*/
    border-radius: 100%;
 }
+
 #about .contact-details { width: 41.66667%; }
 #about .download {
    width: 58.33333%;
