@@ -92,8 +92,8 @@ header .social li {
    margin: 0 15px;
    padding: 0;
 }
-header .social li a { color: #008080; }
-header .social li a:hover { color: #fff; }
+header .social li a { color: #fff; }
+header .social li a:hover { color: #008080; }
 
 /* scrolldown link */
 header .scrolldown a {
@@ -576,13 +576,6 @@ ul#nav li.current a { color: #008080; }
     border-bottom: 1px solid #faebd7 ;
 }
 
-#projects {
-  margin-bottom: 48px #131313;
-  padding-bottom: 24px;
-  border-bottom: 1px solid #faebd7 ;
-  border-width: 90% ;
-  margin: 0 auto ;
-}
 /* ------------------------------------------------------------------ */
 /* f. Passions Section a.k.a Other Stuff I Do
 /* ------------------------------------------------------------------ */
@@ -893,7 +886,7 @@ call-to-action .button {
   font-size: 26px;
   font-weight: bold ;
   line-height: 48px;
-  color: #000;
+  color: #008080;
 }
 
 #home blockquote cite{
@@ -902,7 +895,7 @@ call-to-action .button {
   font-family: 'librebaskerville-regular', sans-serif
   font-style: normal;
   line-height: 18px;
-  color: #000;
+  color: #fff;
 }
 
 /* Flex Slider
