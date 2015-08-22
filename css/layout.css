@@ -189,7 +189,9 @@ ul#nav li.current a { color: #008080; }
    padding-top: 96px;
    padding-bottom: 66px;
    height : 700px;
-
+   background-size: cover !important;
+	-webkit-background-size: cover !important;
+  overflow: hidden ;
 }
 
 #about a, #about a:visited  { color: #000; }
