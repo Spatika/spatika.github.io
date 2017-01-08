@@ -350,6 +350,18 @@ ul#nav li.current a { color: #008080; }
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
+
+.writing {
+  	width: 80%;
+  	-moz-animation: photoshop 2s ease;
+  }
+
+  .editing {
+    	width: 80%;
+    	-moz-animation: photoshop 2s ease;
+  }
+
+
 .java {
   	width: 70%;
   	-moz-animation: illustrator 2s ease;
