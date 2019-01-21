@@ -188,7 +188,8 @@ ul#nav li.current a { color: #008080; }
   position: relative;
   min-height: 500px;
   width: 100%;
-  background: url(../images/about-me-background.jpg) no-repeat top center;
+  /*background: url(../images/about-me-background.jpg) no-repeat top center;*/
+  background: #faebd7; /*off-white*/
   padding-top: 96px;
   padding-bottom: 66px;
   background-size: cover !important;
