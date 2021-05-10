@@ -390,21 +390,23 @@ ul#nav li.current a { color: #008080; }
   	-webkit-animation: dbs 2s ease;
 }
 
+
+
 @-moz-keyframes c {
   0%   { width: 0px;  }
   100% { width: 40%;  }
 }
 @-moz-keyframes r {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 50%;  }
 }
 @-moz-keyframes dbs {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 80%;  }
 }
 @-moz-keyframes tableau {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 50%;  }
 }
 @-moz-keyframes python {
   0%   { width: 0px;  }
@@ -412,24 +414,30 @@ ul#nav li.current a { color: #008080; }
 }
 @-moz-keyframes ml {
   0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+
+@-moz-keyframes java {
+  0%   { width: 0px;  }
   100% { width: 50%;  }
 }
 
+
 @-webkit-keyframes c {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 40%;  }
 }
 @-webkit-keyframes r {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 50%;  }
 }
 @-webkit-keyframes dbs {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 80%;  }
 }
 @-webkit-keyframes tableau {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 50%;  }
 }
 @-webkit-keyframes python {
   0%   { width: 0px;  }
@@ -437,8 +445,14 @@ ul#nav li.current a { color: #008080; }
 }
 @-webkit-keyframes ml {
   0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+
+@-webkit-keyframes java {
+  0%   { width: 0px;  }
   100% { width: 50%;  }
 }
+
 
 /* ------------------------------------------------------------------ */
 /* e. Projects Section - detailed descpn of about 5 projects in a row
