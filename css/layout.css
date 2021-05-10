@@ -348,30 +348,31 @@ ul#nav li.current a { color: #008080; }
 
 .c {
   	width: 40%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
+  	-moz-animation: c 2s ease;
+  	-webkit-animation: c 2s ease;
 }
 
 .r {
   	width: 50%;
-  	-moz-animation: photoshop 2s ease;
+  	-moz-animation: r 2s ease;
+    -webkit-animation: r 2s ease;
   }
 
   .ml {
     	width: 80%;
-    	-moz-animation: photoshop 2s ease;
+    	-moz-animation: ml 2s ease;
+      -webkit-animation: ml 2s ease;
   }
-
 
 .java {
   	width: 40%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+  	-moz-animation: java 2s ease;
+  	-webkit-animation: java 2s ease;
 }
 .python {
   	width: 80%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
+  	-moz-animation: python 2s ease;
+  	-webkit-animation: python 2s ease;
 }
 .css {
   	width: 60%;
@@ -380,13 +381,13 @@ ul#nav li.current a { color: #008080; }
 }
 .tableau {
   	width: 60%;
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
+  	-moz-animation: tableau 2s ease;
+  	-webkit-animation: tableau 2s ease;
 }
 .dbs {
   	width: 80%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+  	-moz-animation: dbs 2s ease;
+  	-webkit-animation: dbs 2s ease;
 }
 
 @-moz-keyframes photoshop {
