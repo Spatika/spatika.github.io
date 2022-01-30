@@ -67,6 +67,7 @@ header .banner-text h3 {
    margin: 0 auto;
    width: 70%;
    font-weight: bold ;
+   text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
@@ -189,7 +190,7 @@ ul#nav li.current a { color: #008080; }
   min-height: 500px;
   width: 100%;
   /*background: url(../images/about-me-background.jpg) no-repeat top center;*/
-  background: #faebd7; /*off-white*/
+  background: #FEFEFA; /*off-white*/
   padding-top: 96px;
   padding-bottom: 66px;
   background-size: cover !important;
@@ -253,7 +254,7 @@ ul#nav li.current a { color: #008080; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #faebd7; /*off-white*/
+   background: #FEFEFA; /*off-white*/
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
@@ -607,7 +608,7 @@ ul#nav li.current a { color: #008080; }
 
 #passions {
     padding-bottom: 24px;
-    border-bottom: 1px solid #faebd7 ;
+    border-bottom: 1px solid #FEFEFA ;
 }
 
 /* ------------------------------------------------------------------ */
@@ -1144,7 +1145,7 @@ call-to-action .button {
 footer {
    padding-top: 48px;
    margin-bottom: 48px;
-   color: #faebd7;
+   color: #FEFEFA;
    font-size: 14px;
    text-align: center;
    position: relative;
